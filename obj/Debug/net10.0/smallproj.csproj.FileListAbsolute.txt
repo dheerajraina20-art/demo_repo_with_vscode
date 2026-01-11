@@ -1,0 +1,14 @@
+C:\Users\sruthi\Desktop\smallproj\bin\Debug\net10.0\smallproj.exe
+C:\Users\sruthi\Desktop\smallproj\bin\Debug\net10.0\smallproj.deps.json
+C:\Users\sruthi\Desktop\smallproj\bin\Debug\net10.0\smallproj.runtimeconfig.json
+C:\Users\sruthi\Desktop\smallproj\bin\Debug\net10.0\smallproj.dll
+C:\Users\sruthi\Desktop\smallproj\bin\Debug\net10.0\smallproj.pdb
+C:\Users\sruthi\Desktop\smallproj\obj\Debug\net10.0\smallproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sruthi\Desktop\smallproj\obj\Debug\net10.0\smallproj.AssemblyInfoInputs.cache
+C:\Users\sruthi\Desktop\smallproj\obj\Debug\net10.0\smallproj.AssemblyInfo.cs
+C:\Users\sruthi\Desktop\smallproj\obj\Debug\net10.0\smallproj.csproj.CoreCompileInputs.cache
+C:\Users\sruthi\Desktop\smallproj\obj\Debug\net10.0\smallproj.dll
+C:\Users\sruthi\Desktop\smallproj\obj\Debug\net10.0\refint\smallproj.dll
+C:\Users\sruthi\Desktop\smallproj\obj\Debug\net10.0\smallproj.pdb
+C:\Users\sruthi\Desktop\smallproj\obj\Debug\net10.0\smallproj.genruntimeconfig.cache
+C:\Users\sruthi\Desktop\smallproj\obj\Debug\net10.0\ref\smallproj.dll
